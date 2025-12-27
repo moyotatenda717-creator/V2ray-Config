@@ -1,5 +1,5 @@
-name: Update Configs
-permissions: write-all
+Tatenda name: Update Configs
+Don't share permissions: write-all
 
 on:
   push:
